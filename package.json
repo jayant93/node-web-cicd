@@ -1,0 +1,14 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Jayant Kumar",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "express": "^4.16.1"
+  }
+}
