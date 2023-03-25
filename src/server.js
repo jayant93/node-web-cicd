@@ -14,5 +14,5 @@ app.get('/', (req, res) => {
 
 app.listen(PORT, HOST, () => {
   console.log(`Test 2 .... Running on http://${HOST}:${PORT}`);
-  console.log('testing');
+  
 });
